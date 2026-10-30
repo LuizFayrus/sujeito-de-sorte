@@ -1,7 +1,11 @@
 SUJEITO DE SORTE
 Belchior (1976)
 
+Considerar um sujeito de vencer e crescer
 Considerar um sujeito de crescer
+=======
+Considerar um sujeito de vencer
+>>>>>>> origin/develop
 Considerar um sujeito de sorte
 Porque apesar de muito moço
 Me sinto são, e salvo, e forte
